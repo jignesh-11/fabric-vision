@@ -1,0 +1,7 @@
+{
+  "name": "Remix: FabricVision SaaS",
+  "description": "A high-end platform for material sellers that allows customers to virtually preview fabric materials on their own clothes using advanced AI texture mapping.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
